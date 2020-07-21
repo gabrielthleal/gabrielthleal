@@ -5,7 +5,7 @@
 ## Me chamo Gabriel! Segue ai que te conto mais sobre mim.
 
 Sou desenvolvedor full-stack com maior foco back-end utilizando Ruby on Rails.
-Entre estágio e carteira assinada, tenho 2 anos de experiencia.
+Tenho uns 2 anos de experiencia como desenvolvedor.
 Porém, meu caso com programação começou com o técnico há uns 7 anos, quando eu queria fazer mods pra minecreaft (nunca os fiz :/).
 
 já convivi e aprendi mais tecnologias do que eu esperava.
