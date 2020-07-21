@@ -6,7 +6,7 @@
 
 Sou desenvolvedor full-stack com maior foco back-end utilizando Ruby on Rails.
 Tenho uns 2 anos de experiencia como desenvolvedor.
-Porém, meu caso com programação começou com o técnico há uns 7 anos, quando eu queria fazer mods pra minecreaft (nunca os fiz :/).
+Porém, meu caso com programação começou com o cuso técnico há uns 7 anos, quando eu queria fazer mods pra minecreaft (ainda não os fiz :/).
 
 já convivi e aprendi mais tecnologias do que eu esperava.
 Sou bem empolgado com desenvolvimento e curto aprender além das áreas que tenho foco.
