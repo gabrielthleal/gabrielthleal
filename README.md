@@ -2,7 +2,7 @@
 
 # Opa, seja bem vindo!
 
-## Me chamo Gabriel! Segue ai que te conto mais sobre mim.
+## Me chamo Gabriel!
 
 Sou desenvolvedor full-stack com maior foco back-end utilizando Ruby on Rails.
 Tenho uns 2 anos de experiência como desenvolvedor.
