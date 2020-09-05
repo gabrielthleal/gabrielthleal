@@ -4,10 +4,7 @@
 
 ## Me chamo Gabriel!
 
-Sou desenvolvedor full-stack com maior foco back-end utilizando Ruby on Rails.
-Tenho uns 2 anos de experiência como desenvolvedor.
-
-Sou bem empolgado com desenvolvimento e curto aprender além das áreas que tenho foco.
+Desenvolvedor backend desde 2018, trabalhando principalmente com Ruby on Rails.
 
 ## Se quiser bater um papo ou saber mais:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielthleal)](https://github.com/gabrielthleal)
